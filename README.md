@@ -1,9 +1,11 @@
 # Getting-and-claning-data-R
 This repository was created for peer-grading project on Coursera (course Getting and cleaning data) and it contains
 1. folder data
-2. file run_anylysis.R
+2. file run_analysis.R
 3. file CodeBook.md
 4. text file all_data_summarized.txt
+
+Here is a description of the files: 
 
 1. FOLDER DATA
 the repository contains data which were donloaded here: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
