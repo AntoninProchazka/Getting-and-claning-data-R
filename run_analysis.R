@@ -1,6 +1,5 @@
 
  
-#setwd("C:/SKOLA/Coursera/Getting and cleaning  data (R)")
 
 # reading testing set - features
 test <- read.table("./data/assignment/test/X_test.txt",  header=FALSE)
